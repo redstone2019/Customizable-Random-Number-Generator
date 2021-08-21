@@ -1,8 +1,7 @@
 ## Customizable-Random-Number-Generator
-This tool will list random numbers. 
-
-*Example of a Program Run* (Below)
-![Example of a Program Run](https://cdn.discordapp.com/attachments/757644490952540331/878476557184815114/unknown.png)
+This tool will list random numbers.
+![Example of a Program Run](https://cdn.discordapp.com/attachments/757644490952540331/878485550993145866/unknown.png)
+*Example of a Program Run*
 ## Installing
 In order to run it download by clicking [releases](https://github.com/redstone2019/Customizable-Random-Number-Generator/releases/latest). Take note of where it downloads to.
 ## Using The Tool
@@ -21,12 +20,10 @@ Next read the example below. You can use as many or as few flags as you want but
 `rng-win.exe -ncount="Anything 1 or Higher" -nmin="Anything 1 or Higher" -nmax="Anything Higher than nmin" -nwait="Anything 0 or Higher"`
 ### Finding the Log
 When the program completes it will have written your random numbers to a logfile. The logfile will be in the same folder as the program, and will end with ".log".
-
-*Example of a logfile* (Below)
-![Example of a logfile](https://cdn.discordapp.com/attachments/757644490952540331/878485088009060392/unknown.png)
-
-*Example of where to find the logfile* (Below)
-![Example of where to find the logfile](https://cdn.discordapp.com/attachments/757644490952540331/878479084181655562/unknown.png)
+![Example of a logfile](https://cdn.discordapp.com/attachments/757644490952540331/878485769692545084/unknown.png)
+*Example of a logfile*
+![Example of where to find the logfile](https://cdn.discordapp.com/attachments/757644490952540331/878485655288680558/unknown.png)
+*Example of where to find the logfile*
 ### Other OS Types
 | Currently this tool only supports Microsoft Windows but I plan to add more OS types in the future. |
 |----------------------------------------------------------------------------------------------------|
