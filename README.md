@@ -10,7 +10,7 @@ If you just run the exe it will default to 100 Random Numbers, a Minimum Value o
 | To use different variables open a cmd.exe window |
 |--------------------------------------------------|
 
-Go to the directory of the file `cd C:\WhereTheFileIs`
+Go to the directory of the file `cd C:\"Where you downloaded the program to`
 
 Run `rng-win.exe`
 ### Using Flags
