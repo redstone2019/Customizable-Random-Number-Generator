@@ -21,6 +21,7 @@ Next read the example below. You can use as many or as few flags as you want but
 ### Finding the Log
 When the program completes it will have written your random numbers to a logfile. The logfile will be in the same folder as the program, and will end with ".log".
 ![Example of a logfile](https://cdn.discordapp.com/attachments/757644490952540331/878478639132459028/unknown.png)
+
 *Example of a logfile*
 
 ![Example of where to find the logfile](https://cdn.discordapp.com/attachments/757644490952540331/878479084181655562/unknown.png)
