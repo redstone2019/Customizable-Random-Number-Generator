@@ -1,5 +1,6 @@
 ## Customizable-Random-Number-Generator
 This tool will list random numbers. 
+
 *Example of a Program Run* (Below)
 ![Example of a Program Run](https://cdn.discordapp.com/attachments/757644490952540331/878476557184815114/unknown.png)
 ## Installing
@@ -20,6 +21,7 @@ Next read the example below. You can use as many or as few flags as you want but
 `rng-win.exe -ncount="Anything 1 or Higher" -nmin="Anything 1 or Higher" -nmax="Anything Higher than nmin" -nwait="Anything 0 or Higher"`
 ### Finding the Log
 When the program completes it will have written your random numbers to a logfile. The logfile will be in the same folder as the program, and will end with ".log".
+
 *Example of a logfile* (Below)
 ![Example of a logfile](https://cdn.discordapp.com/attachments/757644490952540331/878478639132459028/unknown.png)
 
