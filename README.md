@@ -1,7 +1,7 @@
 ## Customizable-Random-Number-Generator
 This tool will list random numbers.
 ![Example of a Program Run](https://cdn.discordapp.com/attachments/757644490952540331/878485550993145866/unknown.png)
-*Example of a Program Run*
+*Example of a Program Run* (Above)
 ## Installing
 In order to run it download by clicking [releases](https://github.com/redstone2019/Customizable-Random-Number-Generator/releases/latest). Take note of where it downloads to.
 ## Using The Tool
@@ -21,9 +21,9 @@ Next read the example below. You can use as many or as few flags as you want but
 ### Finding the Log
 When the program completes it will have written your random numbers to a logfile. The logfile will be in the same folder as the program, and will end with ".log".
 ![Example of a logfile](https://cdn.discordapp.com/attachments/757644490952540331/878485769692545084/unknown.png)
-*Example of a logfile*
+*Example of a logfile* (Above)
 ![Example of where to find the logfile](https://cdn.discordapp.com/attachments/757644490952540331/878485655288680558/unknown.png)
-*Example of where to find the logfile*
+*Example of where to find the logfile* (Above)
 ### Other OS Types
 | Currently this tool only supports Microsoft Windows but I plan to add more OS types in the future. |
 |----------------------------------------------------------------------------------------------------|
